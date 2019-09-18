@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "Pokemon Stream",
+      "description": "Pika pika",
+      "id": 1
+    },
+    {
+      "title": "CS: GO Stream",
+      "description": "Shooting guns with guys",
+      "id": 2
+    }
+  ]
+}
